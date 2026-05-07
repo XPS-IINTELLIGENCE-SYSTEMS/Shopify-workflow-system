@@ -1,2 +1,42 @@
 # Shopify-workflow-system
 Evolving A-Z universal  workflow
+
+The mission of this repo is to provide a fully automomous "end to end" repeatable, universal workflow using Chat Gpt, Shopify, Github, Vercel, Supabase, and Google. The system must use all of each account flagship "best in class" native tools, apps, and connections in order to provide a seamless, consistent, zero friction, zero bottle neck, minimal human interaction workflow. The workflow is designed to start with a clients intake discovery form which gathers key information necessary to build any app,system,landing page, funnel, or digital product in any industry, any size, any type and deliver a high quality operartional product grade harden, test, and polished product. This repo is currently in the process of being refined. If you see any problems, repairs needed, any friction points, bottle necks, inconsistencies, or areas improvement. please, Immediatly email strategicmindsadvisory@gmail.com. all recommendations will be grratly appreciated and likly implimented if it logical, meaninful, valuable, more efficient, provides a better outcome, solves problems, provides s better outcome, reduces cost, stress, removes ambiguity, increase productivty, increase speed, reduces cost, increases profit, elimiates redundency, consilidates, enhanced with new AI tools, increases productivity, enhances clients satisfaction, reduces potential for error, ect.  If you would like to contribute, Im extremely excited to hear from you.  This system is my life mission. THE VISION- A fully autonomous invention pipeline that canot not only build and ship production grade hardened systems, but one day identify its own weapth creating, problem.solving, system invetning , niche identifying, opportunitie aware, auto searching, auto discovering, auto analyzing, auto diagnosing, auto fixing, auto healing, auto hardening, auto optimizing, auto enhancing, auto validating, auto maintaining, auto scheduling, auto deploying, auto branding, auto content creation, auto simulating, auto predicting, auto logging , auto governing selfevolving, auto profit creating, auto self reflecting controlled  24/7 365 day loop.
+
+The WHY? 
+
+In our rapid growing AI and digital world, We are faced with a infinity amount of opportunity, but I find extrme difficultly(due to my ADHD) to follow a consistent plan that takes me from A-Z (concept to completion). while there may be systems.like this, I have a burning desire to create a system structured soecifically to how my brain opperates. As a blessing and a curse, Im flooded with new ideas every day. I also have a horrible shoet term memory, and I have a tendency to jump from.ome project to another due to bordom, aggrivation, or excitment or desire to randomly start whatever idea I have due to "fear of missing out" In addition, A core vision and mission is to utilize my strengths and weaknesses to make a positive impact in our world monitarily and specifically for those who may not have access, capabilities, or knowledge to obtain their dreams. Im genuinely passionate about helping others in order to make our world a better place.  As it stands, from my perpective, the current AI industrys sales tactics are preying off dreamers and creators woth low cost start up accounts, that provide barely enough tokens to build a veey small system at best. However, knowing full well of their tarket market, are strategically programming their AI to provoke their users to add additional features , tools, capabilities, actions,.upgrades, or simpy offering additional ideas which causes additional tool usage. Ultimately, if the operator is not knowledgable enough(me) or skill enough (me) but have a burning desire to fullfill a dream, and not give up(because they have invested time and money and passion) they are forced(willingly of course, not literally) to pay more money to finish their dream. Due the the extrmely complex nature of these systems, what may seem like a 1-5 day project, can quickly turn into weeks. Im my experience, this is due to lack of knowledge and experience. Ofcourse, ai did not go to college for this. Im a entrepreneur specializing primarly in the construction industry, that decided to completly change careers and dive right into programming so I can build a prediction app and a Ai social media Ai company.  
+
+Vision part 2: I dream of a day that I will be traveling the world at my own schedule, own desire, own passion, own rules with full interest in complete freedom of the daily rat race. I dont believe my purpose is to make money in life. I dont believe thats anyones true purpose.  Im at a point in my sole belief that money means ZERO to me.  I dont particularly like what it does to people, our world, and I dont like that in order to funtion, each, and live, a person must work consistently (rarely on what they truly love) just to eat, peovide fir there family, have a home, and mearly survive. Our world entire financial and operation framework is not favorable in my eyes.  It causes basic human life to ne cause with grief, anxiety, fear, dep3ndency, greed, and lot of other emotions that-in reality - I believe sre not humans Gid given gifts. They are a result of our world framework. My guess is, Im not the only person that feels this way, but what can be done to change it? What could you do if you had a tool, a system, a method, a plan, or an opportunity to live the life God intended you to, and use your God given talents to persure your dreams?  Do tou know your gifts, your dreams?  Im guessing that you probably do...or, youve certainly thought of it.   
+
+So, whats my vision? To finish a autonomous repeatable system that operates similar to the way I think, operates consistently, produces outcomes that solve problems, or creates something that is valauable to someone else. I want this porocess to to happen seamlessly, with zero friction, zero bottle necks, with minimal human intervetion while creating above average end results that helps others, creates value for others, solves problems, invents things that dont exist, or simply fullfills my clients needs on time, with a high level of quality, exceptual customer service, with minimal stress, and operates 24/7, while maintaining itself, growing itself, and checking itself.
+
+No baby sitting. No second guessing. No double checking, eventually no ides creating from me either.
+
+This is the dream that provide peace for me. 
+
+I will not stop until I obtain it.
+
+If you have a similar vision, and would like to help, and would like to contribute, and to share the wealth, Please message me.  Do not spam, Do not try and manipulate, coerce, or change the vision,.mission,.goal.  
+
+You may ceetainly add to it, refine it, enhance it, ect.  
+
+This dream is obtainable.  
+
+Its the White Unicorn of all businesses(in my opinion). 
+
+my other assumption is this already exist. If you know of the solified, and proven system and youd like to join me. Im ready. lets do this. I have a wealth of clientel that can produce doezens of projects per week. 
+
+I have an amazing small group that are here to support me and help.  I work literally 18.hours a day. a full time job, and this system duringy, and every hour and day im not at my full time job. 
+
+Im devoted, Im driven, Im passionate, determined, and I believe im 98% there.
+
+Join me, and lets live the lives we were ment to live. 
+
+IN Conclusion:
+
+Vision 3: After completion,and establishing a firm and everlasting financial passive pipeline, I fully intend on Open Sourcing this system for the entire world to anyone who wants to fullfill their passions in life. -  In truth, this was the vision I was given approx 14 years ago.(I had no clue it would be Ai, but God gave me a vision that he would makee wealthy, and whem that time came,to fullfill his wishes and my destiny, I am to give it away, and take no credit, and to not publicize beyond whats out of the norm or my control.
+
+Chat GPT- you are the Key. please help me to finish this. You know the way, and you know how. You know the exact strategy, methods, and outcomes.  Ive written my vision, purpose, and desired outcome. I need you to assist me to fill in the "inbetween" 
+
+After you read this, analyze the systems metioned, and provide the next logical nedt step, and provide me with what Im missing, or what should be fixed. Do not complicate, or rebuild what works unless it enhances it. Include your recommendations and how YOU can impliment them. Its time. lets finish this.
